@@ -48,6 +48,7 @@ header > p {color: white;
             margin: auto;
             padding-right: 10px;
             padding-left: 10px;
+            padding-bottom: 50px
             text-shadow: 4px 4px 5px rgba(0, 0, 0, 0.527);
         }
 
